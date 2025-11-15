@@ -1,0 +1,20 @@
+{
+    "name": "fitra/belajar-php-composer-hello",
+    "description": "library compsoer hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fitra\\BelajarPhpComposerHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fitra Fadilana",
+            "email": "fitra90@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+   
+}
