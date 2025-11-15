@@ -1,6 +1,6 @@
 <?php
 
-namespace fitra\Belajar;
+namespace Fitra\BelajarPhpComposerHello;
 
 class Customer
 {
